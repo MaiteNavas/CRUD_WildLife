@@ -1,0 +1,42 @@
+/*.body{
+	background-color: #B1D8B7;
+}*/
+
+#main {
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+#main-form-container{
+	width: 80%;
+	height: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+#table {
+	width:80%;
+	padding: 30px;
+	margin-top: 20px;
+	border-radius: 8px;
+	background-color: #94C973;
+}
+
+#form-container {
+	padding: 20px;
+	margin: 20px 0px;
+	width:40%;
+	border-radius: 8px;
+	background-color: #94C973;
+}
+
+#navbar {
+	background-color: #94C973;
+	padding: 30px;
+	margin-bottom: 20px;
+}
+
